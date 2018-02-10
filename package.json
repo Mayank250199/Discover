@@ -1,0 +1,22 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "search movies song and lyrics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayank Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.15.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "path": "^0.12.7",
+    "request": "^2.83.0"
+  },
+  "engines": {
+    "node": "6.10.3"
+  }
+}
